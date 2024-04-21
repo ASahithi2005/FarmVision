@@ -4878,7 +4878,17 @@ ul.dropdown-menu.drp-mnu {
 }
 .articleinfo{
     margin:5px;
-    text-align: center; 
+    text-align: justified;
+    vertical-align: middle;
+    font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 20px; 
+}
+@media screen and (min-width: 768px) {
+  .article-paragraph {
+    font-size: 18px;
+    line-height: 1.8;
+  }
 }
 .heading{
     text-align:center;
