@@ -4873,4 +4873,14 @@ ul.dropdown-menu.drp-mnu {
 }
 .article{
   display:flex;
+  padding:10px;
+  margin:10px;
+}
+.articleinfo{
+    margin:5px;
+    text-align: center; 
+}
+.heading{
+    text-align:center;
+    color:green;
 }
