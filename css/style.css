@@ -4894,3 +4894,8 @@ ul.dropdown-menu.drp-mnu {
     text-align:center;
     color:green;
 }
+.weather-info{
+    color:blue;
+    font-family:arial;
+    background-color:rgb(113, 113, 165)
+}
