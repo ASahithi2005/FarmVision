@@ -4871,3 +4871,6 @@ ul.dropdown-menu.drp-mnu {
   margin-top:10px;
   padding-top:10px;
 }
+.article{
+  display:flex;
+}
