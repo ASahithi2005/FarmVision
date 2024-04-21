@@ -4851,3 +4851,22 @@ ul.dropdown-menu.drp-mnu {
   font-size: 13px;
 }
 }
+.info{
+  padding:20px;
+  margin:20px;
+  color:white;
+  background-color: #84C639;
+}
+.black{
+  color:black;
+}
+.blue{
+  color:blue;
+}
+.para{
+  color:red;
+}
+.one{
+  margin-top:10px;
+  padding-top:10px;
+}
