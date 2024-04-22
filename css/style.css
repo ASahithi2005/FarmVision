@@ -4897,6 +4897,10 @@ ul.dropdown-menu.drp-mnu {
 .weather-info{
     color:blue;
     font-family:arial;
-    padding: 2rem;
+    padding: 3rem;
     background-color:white;
+    display:flex;
+    
+    line-height: 2em;
+    margin-bottom: 10px;
 }
